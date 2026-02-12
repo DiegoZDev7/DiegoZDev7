@@ -15,7 +15,7 @@ para aprender na prática e me preparar para oportunidades futuras na área.
 
 <div style="display: inline_block"><br>
    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Dz-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Dz-Js" height="30" width="40" src"">
   <img align="center" alt="Dz-Js" height="30" width="40" src"">
   <img align="center" alt="Dz-Js" height="30" width="40" src"">

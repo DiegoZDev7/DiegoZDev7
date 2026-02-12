@@ -28,10 +28,9 @@ para aprender na prática e me preparar para oportunidades futuras na área.
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-##
+## 👤Contatos
 
 <div>
           <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
           <a href=""  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-          <a href=""  target="_blank"><img src"" target="_blank"></a>
 </div>

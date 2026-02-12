@@ -31,7 +31,7 @@ para aprender na prática e me preparar para oportunidades futuras na área.
 ##
 
 <div>
-          <a href=""  target="_blank"><img src"https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+          <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
           <a href=""  target="_blank"><img src"" target="_blank"></a>
           <a href=""  target="_blank"><img src"" target="_blank"></a>
 </div>

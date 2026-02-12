@@ -1,8 +1,7 @@
 ## 👋 Olá, Me chamo Diego. Seja bem-vindo ao meu perfil no GitHub
 
 Me Chamo Diego Zuque Bataiero, estudante apaixonado por tecnologia, desenvolvimento web e desenvolvimento de software.    
-Estou em constante evolução, estudando programação e desenvolvendo projetos     
-para aprender na prática e me preparar para oportunidades futuras na área.
+Estou em constante evolução, estudando programação e desenvolvendo projetos para aprender na prática e me preparar para oportunidades futuras na área.
 
 ## 📌 Sobre mim
 

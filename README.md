@@ -16,7 +16,8 @@ para aprender na prática e me preparar para oportunidades futuras na área.
           <img align="center" alt="Dz-Ts" height="30" width="40"                                                                           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           <img align="center" alt="Dz-React" height="30" width="40"                                                                       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           <img  align="center" alt="Dz-Sql" height="30" width="40"                                                                          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-          <img align="center" alt="Dz-Prisma" height="30" width="40"                                                                           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />         
+         <img align="center" alt="Dz-Sql" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />      
           <img align="center" alt="Dz-Html" height="30" width="40"                                                                           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           <img align="center" alt="Dz-Css" height="30" width="40" 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
